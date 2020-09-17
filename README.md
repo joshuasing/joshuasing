@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, 👋
 
-<!--
-**joshuasing/joshuasing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ About me
+My name is Joshua Sing,
+I'm a young developer from Victoria, Australia.
+I spend my days working on Spigot/BungeeCord plugins for Minecraft Servers & some other projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ What I do
+I currently create Spigot/BungeeCord plugins for @HyperaDev.
+
+
+### ✨ My projects
+#### [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/) - The most advanced and feature packed StaffChat plugin for Spigot & BungeeCord.
+#### [UltraStaffChat BungeeCord](www.spigotmc.org/resources/68956/) - A 100% Customizable StaffChat Plugin for BungeeCord!
+
+
+### ✨ Upcoming projects
+#### [NodeStatus](https://github.com/NodeStatus) - A free and open source status page. 
+
+
+### 📫 Contact
+#### Discord | [JoshuaLovesCode#1772](https://discord.hypera.dev)
+#### Email   | [joshua@hypera.dev](mailto:joshua@hypera.dev)
