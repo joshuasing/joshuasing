@@ -16,12 +16,9 @@ I currently create Minecraft plugins, libraries and frameworks for @HyperaOffici
  - [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/) - The most advanced and feature packed StaffChat plugin for Spigot & BungeeCord.
  - [UltraStaffChat BungeeCord](www.spigotmc.org/resources/68956/) - A 100% Customizable StaffChat Plugin for BungeeCord!
  - [UpdateLib](https://github.com/HyperaOfficial/UpdateLib/) - A simple update library for SpigotMC resources. 
-<br>
-
 
 ### ✨ Upcoming projects
  - None that have been announced yet :)
-<br>
 
 ### 📈 Statistics
 ![My contributions](https://github-readme-stats.vercel.app/api?username=joshuasing&count_private=true&show_icons=true&theme=dark)
