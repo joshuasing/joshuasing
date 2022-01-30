@@ -16,7 +16,7 @@ I currently create Minecraft plugins, libraries and frameworks for [@HyperaOffic
  - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### My projects
- - [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/) - The most advanced and feature packed StaffChat plugin for Spigot & BungeeCord.
+ - [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/) - The most advanced and feature packed StaffChat plugin for Spigot, BungeeCord, Velocity & Minestom
  - [UltraStaffChat BungeeCord](www.spigotmc.org/resources/68956/) - A 100% Customizable StaffChat Plugin for BungeeCord!
  - [Chameleon](https://github.com/HyperaOfficial/Chameleon/) - Cross-platform Minecraft plugin framework
  - [UpdateLib](https://github.com/HyperaOfficial/UpdateLib/) - A simple update library for SpigotMC resources. 
