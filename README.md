@@ -27,7 +27,7 @@ I currently create Minecraft plugins, libraries and frameworks for [@HyperaOffic
 
 ### Statistics
 ![Profile views](https://komarev.com/ghpvc?username=joshuasing&color=2155CC&style=flat-square)
-[![wakatime](https://wakatime.com/badge/user/796b9400-dd1e-4e14-89bf-58ba2490722f.svg)](https://wakatime.com/@796b9400-dd1e-4e14-89bf-58ba2490722f)  
+[![wakatime](https://wakatime.com/badge/user/796b9400-dd1e-4e14-89bf-58ba2490722f.svg)](https://wakatime.com/@joshuasing)  
 ![My contributions](https://github-readme-stats.vercel.app/api?username=joshuasing&count_private=true&show_icons=true&theme=dark)
 
 ### Want to contact me?
