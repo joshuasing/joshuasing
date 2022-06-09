@@ -7,6 +7,7 @@ I spend most of my time writing Java and TypeScript for @HyperaOfficial with a g
 ![Profile views](https://komarev.com/ghpvc?username=joshuasing&color=2155CC&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/796b9400-dd1e-4e14-89bf-58ba2490722f.svg)](https://wakatime.com/@joshuasing)  
 ![My contributions](https://github-readme-stats.vercel.app/api?username=joshuasing&count_private=true&show_icons=true&title_color=97e097&icon_color=97e097&bg_color=21262d&text_color=c9d1d9&hide_border=true&include_all_commits=true&custom_title=My%20commit%20stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshuasing&theme=github-dark-blue&hide_border=true&stroke=97E097&ring=97E097&fire=97E097&sideNums=97E097&background=21262D)
 
 #### Projects
  - [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/) - The most advanced and feature packed StaffChat plugin for Spigot, BungeeCord, Velocity & Minestom
