@@ -1,6 +1,6 @@
 ## Hi there! 👋
 My name is Joshua Sing, I'm a young developer from Victoria, Australia :australia:  
-I spend most of my time writing Java and TypeScript for @HyperaOfficial with a group of extremely amazing and talented people.
+I spend most of my time writing Java and TypeScript for [Hypera Development](https://github.com/HyperaOfficial/) with a group of extremely amazing and talented people.
 
 ## Statistics
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/joshuasing)
