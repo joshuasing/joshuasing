@@ -1,6 +1,6 @@
 ## Hi there! 👋
 My name is Joshua Sing, I'm a young developer from Victoria, Australia :australia:  
-I spend most of my time writing Java and TypeScript for [Hypera Development](https://github.com/HyperaOfficial/) with a group of extremely amazing and talented people.
+I spend most of my time writing Java, Go, TypeScript for [Hypera Development](https://github.com/HyperaOfficial/) with a group of extremely amazing and talented people.
 
 ### Statistics
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/joshuasing)
@@ -10,23 +10,24 @@ I spend most of my time writing Java and TypeScript for [Hypera Development](htt
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshuasing&theme=github-dark-blue&hide_border=true&stroke=97E097&ring=97E097&fire=97E097&sideNums=97E097&background=21262D)
 
 ### Projects
- - [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/) - The most advanced and feature packed StaffChat plugin for Spigot, BungeeCord, Velocity & Minestom
+ - [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/) - The most advanced and feature packed StaffChat plugin.
  - [UltraStaffChat BungeeCord](www.spigotmc.org/resources/68956/) - A 100% Customizable StaffChat Plugin for BungeeCord!
- - [Chameleon](https://github.com/HyperaOfficial/Chameleon/) - Cross-platform Minecraft plugin framework
+ - [Chameleon](https://github.com/ChameleonFramework/Chameleon/) - Cross-platform Minecraft plugin framework
  - [Dragonfly](https://github.com/HyperaOfficial/Dragonfly/) - Java runtime dependency management library
  - [UpdateLib](https://github.com/HyperaOfficial/UpdateLib/) - A simple update library for SpigotMC resources. 
 
 ### Upcoming projects
- - None that have been announced yet
+Soon:tm:
 
-### Specifications I try to follow
- - [Semantic Versioning](https://semver.org)
+### Specifications
+I try to follow these specifications whenever possible.
+ - [Semantic Versioning](https://semver.org/)
  - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### Contact
  - Timezone: Australia/Melbourne
- - Discord: [JoshuaLovesCode#1772](https://discord.hypera.dev/) (Best response times)
+ - Discord (preferred): [JoshuaLovesCode#1772](https://discord.hypera.dev/)
  - Email: [joshua@hypera.dev](mailto:joshua@hypera.dev)
 
 ### Miscellaneous
- - GPG key: `3A3F16614180CDE6`
+ - GPG signature key: [`3A3F16614180CDE6`](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3a3f16614180cde6)
