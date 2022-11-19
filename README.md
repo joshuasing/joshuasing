@@ -26,7 +26,7 @@ I try to follow these specifications whenever possible.
 
 ### Contact
  - Timezone: Australia/Melbourne
- - Discord (preferred): [JoshuaLovesCode#1772](https://discord.hypera.dev/)
+ - Discord (preferred): [joshuasing#1772](https://discord.hypera.dev/)
  - Email: [joshua@hypera.dev](mailto:joshua@hypera.dev)
 
 ### Miscellaneous
