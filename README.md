@@ -1,6 +1,6 @@
-## Hi there! 👋
-My name is Joshua Sing, I'm a young developer from Victoria, Australia :australia:  
-I spend most of my time writing Java, Go, TypeScript for [Hypera Development](https://github.com/HyperaOfficial/) with a group of extremely amazing and talented people.
+## Hi there!
+Hello, my name is Joshua Sing. I'm a young developer from Victoria, Australia 🇦🇺.  
+I currently spend most of my spare time writing Java, Go, and TypeScript for a group called [Hypera Development](https://github.com/HyperaDev/).  
 
 ### Statistics
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/joshuasing)
@@ -9,25 +9,10 @@ I spend most of my time writing Java, Go, TypeScript for [Hypera Development](ht
 ![My contributions](https://github-readme-stats.vercel.app/api?username=joshuasing&count_private=true&show_icons=true&title_color=97e097&icon_color=97e097&bg_color=21262d&text_color=c9d1d9&hide_border=true&include_all_commits=true&custom_title=My%20commit%20stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshuasing&theme=github-dark-blue&hide_border=true&stroke=97E097&ring=97E097&fire=97E097&sideNums=97E097&background=21262D)
 
-### Projects
- - [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/) - The most advanced and feature packed StaffChat plugin.
- - [UltraStaffChat BungeeCord](www.spigotmc.org/resources/68956/) - A 100% Customizable StaffChat Plugin for BungeeCord!
- - [Chameleon](https://github.com/ChameleonFramework/Chameleon/) - Cross-platform Minecraft plugin framework
- - [Dragonfly](https://github.com/HyperaOfficial/Dragonfly/) - Java runtime dependency management library
- - [UpdateLib](https://github.com/HyperaOfficial/UpdateLib/) - A simple update library for SpigotMC resources. 
-
-### Upcoming projects
-Soon:tm:
-
-### Specifications
-I try to follow these specifications whenever possible.
- - [Semantic Versioning](https://semver.org/)
- - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-
 ### Contact
  - Timezone: Australia/Melbourne
  - Discord (preferred): [joshuasing#1772](https://discord.hypera.dev/)
  - Email: [joshua@hypera.dev](mailto:joshua@hypera.dev)
 
 ### Miscellaneous
- - GPG signature key: [`3A3F16614180CDE6`](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3a3f16614180cde6)
+ - GPG signature key: [`3A3F16614180CDE6`](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x3A3F16614180CDE6)
