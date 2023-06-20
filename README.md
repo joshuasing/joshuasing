@@ -11,7 +11,7 @@ I currently spend most of my spare time writing Java, Go, and TypeScript for a g
 
 ### Contact
  - Timezone: Australia/Melbourne
- - Discord (preferred): [joshuasing#1772](https://discord.hypera.dev/)
+ - Discord (preferred): [@joshuasing](https://discord.hypera.dev/)
  - Email: [joshua@hypera.dev](mailto:joshua@hypera.dev)
 
 ### Miscellaneous
