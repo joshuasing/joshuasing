@@ -8,7 +8,7 @@ I spend most of my spare time working on projects for a small group called [Hype
 
 ### Experience
 
-I have primarily write programs with Go, Java (4+ years now), TypeScript (and JavaScript/ES6).  
+I mostly write programs with Go, Java (4+ years now) and TypeScript (and JavaScript/ES6).  
 I am currently learning C, Rust<!-- help -->, Swift and Elixir.
 
 My first language is English, and I am currently trying to learn 日本語 (Japanese).
