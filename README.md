@@ -19,7 +19,6 @@ My first language is English, and I am currently trying to learn 日本語 (Japa
 ![Profile views](https://komarev.com/ghpvc?username=joshuasing&color=2155CC&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/796b9400-dd1e-4e14-89bf-58ba2490722f.svg)](https://wakatime.com/@joshuasing)  
 ![My contributions](https://github-readme-stats.vercel.app/api?username=joshuasing&count_private=true&show_icons=true&title_color=97e097&icon_color=97e097&bg_color=21262d&text_color=c9d1d9&hide_border=true&include_all_commits=true&custom_title=My%20commit%20stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshuasing&theme=github-dark-blue&hide_border=true&stroke=97E097&ring=97E097&fire=97E097&sideNums=97E097&background=21262D)
 
 
 ### Projects
@@ -35,7 +34,7 @@ My first language is English, and I am currently trying to learn 日本語 (Japa
  - Timezone: Australia/Melbourne
  - Discord: [@joshuasing](https://discord.hypera.dev/) (Fastest response)
  - Matrix: `@joshuasing:matrix.org`
- - Twitter: [@joshuasingdev](https://twitter.com/joshuasingdev) <!-- I don't post, nor do I really ever check Twitter -->
+ - Twitter (X): [@joshuasingdev](https://twitter.com/joshuasingdev) <!-- I don't post, nor do I really ever check Twitter -->
  - Linkedin: [joshuasing](https://www.linkedin.com/in/joshuasing/)
  - Email: [joshua@hypera.dev](mailto:joshua@hypera.dev)
 
