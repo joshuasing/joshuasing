@@ -34,7 +34,7 @@ My first language is English, and I am currently trying to learn 日本語 (Japa
  - Timezone: Australia/Melbourne
  - Discord: [@joshuasing](https://discord.hypera.dev/) (Fastest response)
  - Matrix: `@joshuasing:matrix.org`
- - Twitter (X): [@joshuasingdev](https://twitter.com/joshuasingdev) <!-- I don't post, nor do I really ever check Twitter -->
+ - Twitter (X): [@joshuasingdev](https://twitter.com/joshuasingdev) <!-- I don't post, nor do I really ever check Twitter - Elon killed the bird :( -->
  - Linkedin: [joshuasing](https://www.linkedin.com/in/joshuasing/)
  - Email: [joshua@hypera.dev](mailto:joshua@hypera.dev)
 
