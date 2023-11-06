@@ -42,3 +42,4 @@ My first language is English, and I am currently trying to learn 日本語 (Japa
 
 ### Miscellaneous
  - GPG public key: [`0xC991E66D062F7FB9`](/gpg-public.asc)
+ - [Previous GPG public keys](/gpg-keys.md)
