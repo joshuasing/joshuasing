@@ -41,4 +41,4 @@ My first language is English, and I am currently trying to learn 日本語 (Japa
 
 
 ### Miscellaneous
- - GPG public key: [`0x3A3F16614180CDE6`](https://pgp.mit.edu/pks/lookup?op=get&search=0x3A3F16614180CDE6)
+ - GPG public key: [`0xC991E66D062F7FB9`](/gpg-public.asc)
