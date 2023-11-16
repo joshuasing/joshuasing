@@ -2,19 +2,22 @@
 <!-- Hi, why are you looking at the source for this? :D -->
 <!-- There's nothing interesting here -->
 
-Hello, my name is Joshua Sing. I'm a young Software Engineer from Victoria, Australia 🇦🇺.  
+Hello, I'm Joshua Sing. I am a young Software Engineer from Victoria, Australia 🇦🇺.  
 I spend most of my spare time working on projects for a small group called [Hypera Development](https://github.com/HyperaDev/), in an attempt to create something that will make other people's lives easier.
 
 
-### Experience
+### My experience
 
 I mostly write programs with Go, Java (4+ years now) and TypeScript (and JavaScript/ES6).  
-I am currently learning C, Rust<!-- help -->, Swift and Elixir.
+I am currently learning C, Rust<!-- help what is this syntax -->, Swift and Elixir.
 
 My first language is English, and I am currently trying to learn 日本語 (Japanese).
 
 
 ### Statistics
+
+Some statistics about my activity.
+
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/joshuasing)
 ![Profile views](https://komarev.com/ghpvc?username=joshuasing&color=2155CC&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/796b9400-dd1e-4e14-89bf-58ba2490722f.svg)](https://wakatime.com/@joshuasing)  
@@ -23,6 +26,7 @@ My first language is English, and I am currently trying to learn 日本語 (Japa
 
 
 ### Projects
+These are some of the projects I often contribute to.
  - [ChameleonFramework/Chameleon](https://github.com/ChameleonFramework/Chameleon/) - Cross-platform Minecraft plugin framework
  - [HyperaDev/kani](https://github.com/HyperaDev/kani) - A fast Traefik forward-auth server for validating Cloudflare Access requests
  - [HyperaDev/Dragonfly](https://github.com/HyperaDev/Dragonfly) - Java runtime dependency management library
@@ -33,13 +37,12 @@ My first language is English, and I am currently trying to learn 日本語 (Japa
 
 ### Contact
  - Timezone: Australia/Melbourne
- - Discord: [@joshuasing](https://discord.hypera.dev/) (Fastest response)
+ - Discord: [@joshuasing](https://discord.hypera.dev/) (fastest response)
  - Matrix: `@joshuasing:matrix.org`
- - Twitter (X): [@joshuasingdev](https://twitter.com/joshuasingdev) <!-- I don't post, nor do I really ever check Twitter - Elon killed the bird :( -->
+ - Twitter (X): [@joshuasingdev](https://twitter.com/joshuasingdev) <!-- I haven't posted, nor do I really check this dumpster-fire -->
  - Linkedin: [joshuasing](https://www.linkedin.com/in/joshuasing/)
  - Email: [joshua@hypera.dev](mailto:joshua@hypera.dev)
 
 
 ### Miscellaneous
- - GPG public key: [`0xC991E66D062F7FB9`](/gpg-public.asc)
- - [Previous GPG public keys](/gpg-keys.md)
+ - GPG public key: [`0xC991E66D062F7FB9`](/gpg-public.asc) ([previous public keys](/gpg-keys.md))
