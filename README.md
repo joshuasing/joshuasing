@@ -23,26 +23,6 @@ Some statistics related to my activity on GitHub.
 ![My contributions](https://github-readme-stats.vercel.app/api?username=joshuasing&count_private=true&show_icons=true&title_color=97e097&icon_color=97e097&bg_color=21262d&text_color=c9d1d9&hide_border=true&include_all_commits=true&custom_title=My%20commit%20stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joshuasing&theme=github-dark-blue&hide_border=true&stroke=97E097&ring=97E097&fire=97E097&sideNums=97E097&background=21262D)
 
+### Want to know more?
 
-### Projects
-
-A couple of open-source projects I enjoy spending time on.
-
- - [ChameleonFramework/Chameleon](https://github.com/ChameleonFramework/Chameleon/) - Cross-platform Minecraft plugin framework
- - [HyperaDev/kani](https://github.com/HyperaDev/kani) - A fast Traefik forward-auth server for validating Cloudflare Access requests
-
-
-### Contact
-
-My contact information. I attempt to respond quickly on all of these, however I respond the fastest to messages on Discord.
-
- - Timezone: Australia/Melbourne
- - Email: [joshua@hypera.dev](mailto:joshua@hypera.dev)
- - Discord: [@joshuasing](https://discord.hypera.dev/)
- - Matrix: `@joshuasing:matrix.org`
- - Twitter (X): [@joshuasingdev](https://twitter.com/joshuasingdev) <!-- I haven't posted, nor do I really check this dumpster-fire -->
- - Linkedin: [joshuasing](https://www.linkedin.com/in/joshuasing/)
-
-
-### Miscellaneous
- - GPG public key: [`0xC991E66D062F7FB9`](/gpg-public.asc) ([previous public keys](/gpg-keys.md))
+Visit my website! https://joshuasing.dev/
