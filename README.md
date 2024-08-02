@@ -8,7 +8,7 @@ I spend most of my free time working on projects for a small group called [Hyper
 
 ### My experience
 
-I have five years of experience with Java, one year with Go, and three years with TypeScript and React (and JavaScript/ES6).  
+I have five years of experience with Java, two years with Go, and three years with TypeScript and React (and JavaScript/ES6).  
 I am currently learning C, Rust and Elixir.
 
 I am a native English speaker, learning 日本語 (Japanese).
