@@ -1,18 +1,11 @@
 ## Hello! 👋
 
-Hi, I'm Joshua Sing - a Software Engineer based in Victoria, Australia 🇦🇺.
+Hi, I'm Joshua Sing - a Software Security Engineer based in Victoria, Australia 🇦🇺.
 
-I currently work at [Hemi Labs, Inc.](https://github.com/hemilabs/) as part of the **Protocol Engineering** team, helping build and maintain core network infrastructure. I also contribute to Security Operations efforts internally.
+I currently work at [Hemi Labs, Inc.](https://github.com/hemilabs/) across the **Protocol Engineering** and **DevSecOps** teams, where I build and maintain core network infrastructure and look after day-to-day security.
 
-In my spare time, I contribute to [Hypera Development](https://github.com/hyperadev/), a small group building tools to make developers' lives easier.
+I have around five years of experience with Go. I also have a background in Java, TypeScript and React.
 
-### My experience
-
-I have three years' experience with Go, six years with Java, and four years with TypeScript and React. 
-I am currently learning C, Rust and Elixir.
+Outside of work, I enjoy contributing to and working on open source projects, including a [Prometheus exporter for Starlink](https://github.com/joshuasing/starlink_exporter), [LibreSSL](https://github.com/libressl) and projects for [Hypera Development](https://github.com/hyperadev).
 
 I am a native English speaker, learning 日本語 (Japanese).
-
-### Want to know more?
-
-Visit my website! https://joshuasing.dev/
